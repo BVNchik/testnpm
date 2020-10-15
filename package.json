@@ -1,6 +1,5 @@
 {
-  "name": "testvlad",
-  "private": true,
+  "name": "@byvlad/testvlad",
   "devDependencies": {
     "lerna": "^3.22.1"
   },
@@ -9,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "vlad",
+  "license": "MIT",
   "description": ""
 }
